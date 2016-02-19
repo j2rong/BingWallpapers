@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="chkAutoExit.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="chkAutoExit.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -149,9 +146,6 @@
   <data name="&gt;&gt;chkAutoExit.ZOrder" xml:space="preserve">
     <value>35</value>
   </data>
-  <metadata name="picZHCN.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="picZHCN.Location" type="System.Drawing.Point, System.Drawing">
     <value>20, 246</value>
   </data>
@@ -183,9 +177,6 @@
   <data name="&gt;&gt;picZHCN.ZOrder" xml:space="preserve">
     <value>34</value>
   </data>
-  <metadata name="labelZHCN.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="labelZHCN.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -213,9 +204,6 @@
   <data name="&gt;&gt;labelZHCN.ZOrder" xml:space="preserve">
     <value>33</value>
   </data>
-  <metadata name="labelCustom.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="labelCustom.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -243,9 +231,6 @@
   <data name="&gt;&gt;labelCustom.ZOrder" xml:space="preserve">
     <value>32</value>
   </data>
-  <metadata name="picENUS.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="picENUS.Location" type="System.Drawing.Point, System.Drawing">
     <value>292, 246</value>
   </data>
@@ -285,9 +270,6 @@
   <data name="notifyIcon.Visible" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <metadata name="ltZhcn.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="ltZhcn.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -315,9 +297,6 @@
   <data name="&gt;&gt;ltZhcn.ZOrder" xml:space="preserve">
     <value>30</value>
   </data>
-  <metadata name="ltEnus.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="ltEnus.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -345,9 +324,6 @@
   <data name="&gt;&gt;ltEnus.ZOrder" xml:space="preserve">
     <value>29</value>
   </data>
-  <metadata name="chkAutoRun.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="chkAutoRun.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -375,9 +351,6 @@
   <data name="&gt;&gt;chkAutoRun.ZOrder" xml:space="preserve">
     <value>28</value>
   </data>
-  <metadata name="rdSaveAll.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="rdSaveAll.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -405,9 +378,6 @@
   <data name="&gt;&gt;rdSaveAll.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <metadata name="rdSaveOne.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="rdSaveOne.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -435,9 +405,6 @@
   <data name="&gt;&gt;rdSaveOne.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <metadata name="label1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -465,9 +432,6 @@
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
     <value>27</value>
   </data>
-  <metadata name="ltEses.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="ltEses.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -495,9 +459,6 @@
   <data name="&gt;&gt;ltEses.ZOrder" xml:space="preserve">
     <value>24</value>
   </data>
-  <metadata name="label3.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="label3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -525,9 +486,6 @@
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>25</value>
   </data>
-  <metadata name="picESES.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="picESES.Location" type="System.Drawing.Point, System.Drawing">
     <value>564, 246</value>
   </data>
@@ -555,9 +513,6 @@
   <data name="&gt;&gt;picESES.ZOrder" xml:space="preserve">
     <value>26</value>
   </data>
-  <metadata name="ltFrfr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="ltFrfr.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -585,9 +540,6 @@
   <data name="&gt;&gt;ltFrfr.ZOrder" xml:space="preserve">
     <value>21</value>
   </data>
-  <metadata name="label4.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="label4.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -615,9 +567,6 @@
   <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
     <value>22</value>
   </data>
-  <metadata name="picFRFR.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="picFRFR.Location" type="System.Drawing.Point, System.Drawing">
     <value>20, 435</value>
   </data>
@@ -645,9 +594,6 @@
   <data name="&gt;&gt;picFRFR.ZOrder" xml:space="preserve">
     <value>23</value>
   </data>
-  <metadata name="ltEngb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="ltEngb.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -675,9 +621,6 @@
   <data name="&gt;&gt;ltEngb.ZOrder" xml:space="preserve">
     <value>18</value>
   </data>
-  <metadata name="label5.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="label5.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -705,9 +648,6 @@
   <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
     <value>19</value>
   </data>
-  <metadata name="picENGB.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="picENGB.Location" type="System.Drawing.Point, System.Drawing">
     <value>292, 435</value>
   </data>
@@ -735,9 +675,6 @@
   <data name="&gt;&gt;picENGB.ZOrder" xml:space="preserve">
     <value>20</value>
   </data>
-  <metadata name="panel1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>37, 168</value>
   </data>
@@ -759,12 +696,6 @@
   <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
     <value>17</value>
   </data>
-  <metadata name="panel2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="rdUpdateAll.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="rdUpdateAll.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -792,9 +723,6 @@
   <data name="&gt;&gt;rdUpdateAll.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <metadata name="rdUpdateTwo.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="rdUpdateTwo.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -843,9 +771,6 @@
   <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
-  <metadata name="refreshZhcn.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="refreshZhcn.ImageIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
@@ -857,7 +782,7 @@
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
         ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAADq
-        CQAAAk1TRnQBSQFMAwEBAAFwAQABcAEAASABAAEgAQAE/wEJAQAI/wFCAU0BNgEEBgABNgEEAgABKAMA
+        CQAAAk1TRnQBSQFMAwEBAAGIAQABiAEAASABAAEgAQAE/wEJAQAI/wFCAU0BNgEEBgABNgEEAgABKAMA
         AYADAAEgAwABAQEAAQgGAAEQGAABgAIAAYADAAKAAQABgAMAAYABAAGAAQACgAIAA8ABAAHAAdwBwAEA
         AfABygGmAQABMwUAATMBAAEzAQABMwEAAjMCAAMWAQADHAEAAyIBAAMpAQADVQEAA00BAANCAQADOQEA
         AYABfAH/AQACUAH/AQABkwEAAdYBAAH/AewBzAEAAcYB1gHvAQAB1gLnAQABkAGpAa0CAAH/ATMDAAFm
@@ -923,9 +848,6 @@
   <data name="&gt;&gt;refreshZhcn.ZOrder" xml:space="preserve">
     <value>15</value>
   </data>
-  <metadata name="refreshEnus.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="refreshEnus.ImageIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
@@ -950,9 +872,6 @@
   <data name="&gt;&gt;refreshEnus.ZOrder" xml:space="preserve">
     <value>14</value>
   </data>
-  <metadata name="refreshEses.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="refreshEses.ImageIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
@@ -977,9 +896,6 @@
   <data name="&gt;&gt;refreshEses.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
-  <metadata name="refreshFrfr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="refreshFrfr.ImageIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
@@ -1004,9 +920,6 @@
   <data name="&gt;&gt;refreshFrfr.ZOrder" xml:space="preserve">
     <value>12</value>
   </data>
-  <metadata name="refreshEngb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="refreshEngb.ImageIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
@@ -1031,9 +944,6 @@
   <data name="&gt;&gt;refreshEngb.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
-  <metadata name="chkZhcn.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="chkZhcn.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1061,9 +971,6 @@
   <data name="&gt;&gt;chkZhcn.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <metadata name="chkEnus.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="chkEnus.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1091,9 +998,6 @@
   <data name="&gt;&gt;chkEnus.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <metadata name="chkEses.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="chkEses.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1121,9 +1025,6 @@
   <data name="&gt;&gt;chkEses.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <metadata name="chkFrfr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="chkFrfr.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1151,9 +1052,6 @@
   <data name="&gt;&gt;chkFrfr.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <metadata name="chkEngb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="chkEngb.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1181,9 +1079,6 @@
   <data name="&gt;&gt;chkEngb.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <metadata name="btnDirectExit.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="btnDirectExit.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
@@ -1222,9 +1117,6 @@
   <data name="&gt;&gt;btnDirectExit.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <metadata name="label2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
@@ -1232,7 +1124,7 @@
     <value>True</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>677, 9</value>
+    <value>683, 9</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
     <value>143, 12</value>
@@ -1255,9 +1147,6 @@
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <metadata name="label6.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="label6.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1285,23 +1174,20 @@
   <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <metadata name="label7.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="label7.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>683, 30</value>
+    <value>765, 30</value>
   </data>
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 12</value>
+    <value>59, 12</value>
   </data>
   <data name="label7.TabIndex" type="System.Int32, mscorlib">
     <value>38</value>
   </data>
   <data name="label7.Text" xml:space="preserve">
-    <value>(C) 2015 - 2016 j2Rong</value>
+    <value>By j2Rong</value>
   </data>
   <data name="&gt;&gt;label7.Name" xml:space="preserve">
     <value>label7</value>
@@ -1315,9 +1201,6 @@
   <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <metadata name="label8.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="label8.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1325,13 +1208,13 @@
     <value>743, 51</value>
   </data>
   <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 12</value>
+    <value>11, 12</value>
   </data>
   <data name="label8.TabIndex" type="System.Int32, mscorlib">
     <value>39</value>
   </data>
   <data name="label8.Text" xml:space="preserve">
-    <value>保留所有权利</value>
+    <value> </value>
   </data>
   <data name="&gt;&gt;label8.Name" xml:space="preserve">
     <value>label8</value>
@@ -1345,9 +1228,6 @@
   <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <metadata name="picBanner.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="picBanner.Location" type="System.Drawing.Point, System.Drawing">
     <value>10, 9</value>
   </data>
@@ -1370,9 +1250,6 @@
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">

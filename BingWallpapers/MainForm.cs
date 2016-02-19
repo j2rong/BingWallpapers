@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Resources;
@@ -27,6 +28,7 @@ namespace BingWallpapers
 
         public MainForm()
 		{
+			//Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
 			InitializeComponent();
 			res = new ResourceManager("BingWallpapers.strings", typeof(MainForm).Assembly);
             warningTooltip.ToolTipTitle = res.GetString("warningTooltip_ToolTipTitle");
