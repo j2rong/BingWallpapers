@@ -1,12 +1,11 @@
-﻿using Microsoft.Win32;
+﻿using BingWallpapers.Bing;
+using BingWallpapers.Model;
+using Microsoft.Win32;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Net;
 using System.Runtime.InteropServices;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace BingWallpapers
 {
@@ -82,47 +81,34 @@ namespace BingWallpapers
 		{
 			ImageInfo info = new ImageInfo();
 
-			string str = this.getHtml("http://global.bing.com/?setmkt=" + locale);
-			string tag = "g_img={url:'";
-
-			int i = str.IndexOf(tag);
-			if (i == -1)
+			string jsonResponse = this.getHtml(
+				"http://global.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=" + locale);
+			BingResponse.RootObject result = JsonUtil.parse<BingResponse.RootObject>(jsonResponse);
+			if (result != null)
 			{
-				return null;
-			}
+				var image = result.images[0];
 
-			int j = str.IndexOf(".jpg'", i);
-
-			string url = str.Substring(i, j - i).Replace(tag, "") + ".jpg";
-			if (url.IndexOf("http://") == -1)
-				url = "http://global.bing.com" + url;
-
-			// URL
-			info.url = url;
-			info.title = "";
-			info.copyright = "";
-
-			tag = "<a href=\"/search?q=";
-			i = str.IndexOf(tag);
-
-			if (i == -1)
-			{
-				tag = "<a href=\"javascript:void(0)\" alt=\"";
-				i = str.IndexOf(tag);
-				if (i == -1)
+				if (locale.ToLower().Equals("zh-cn"))
 				{
-					//update(2015-12-21), cn-bing image title html has changed, fix 
-					tag = "<a href=\"javascript:void(0)\" id=";
-					i = str.IndexOf(tag);
-					if(i == -1)
-						return info;
+					info.url = image.url;
+				}
+				else
+				{
+					info.url = "http://global.bing.com" + image.url;
+				}
+
+				int j = image.copyright.IndexOf('(');
+				if (j == -1)
+				{
+					info.title = image.copyright;
+					info.copyright = "";
+				}
+				else
+				{
+					info.title = image.copyright.Substring(0, j);
+					info.copyright = image.copyright.Substring(j + 1);
 				}
 			}
-
-			string tag2 = " alt=\"";
-			i = str.IndexOf(tag2, i);
-			j = str.IndexOf("\"", i + tag2.Length);
-			info.title = str.Substring(i, j - i).Replace(tag2, "");
 
 			return info;
 		}
